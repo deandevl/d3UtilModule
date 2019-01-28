@@ -1,0 +1,29 @@
+{
+  "name": "d3utilmodule",
+  "version": "1.0.0",
+  "description": "Contains various utility functions in support of chart building via the d3 library charting package",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deandevl/d3UtilModule.git"
+  },
+  "keywords": [
+    "d3",
+    "chart",
+    "utilities"
+  ],
+  "author": "Rick Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deandevl/d3UtilModule/issues"
+  },
+  "homepage": "https://github.com/deandevl/d3UtilModule#readme",
+  "main": "d3UtilModule.js",
+  "module": "index.js",
+  "dependencies": {
+    "d3-drag": "^1.2.3",
+    "d3-transition": "^1.1.3"
+  }
+}
